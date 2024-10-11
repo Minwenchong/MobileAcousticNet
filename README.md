@@ -1,2 +1,3 @@
 # MobileAcousticNet
-This repository provides the datasets used by MobileAcousticNet.
+This repository provides the implementation of MobileAcousticNet
+
